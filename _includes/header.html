@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>{{ site.name }}</title>
+    <title>{{ site.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="{{ site.description }}">
 
@@ -35,17 +35,18 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
-github_username:  miwong
                 </button>
-                <a class="navbar-brand" href="#">{{ site.title }}</a>
+                <a class="navbar-brand" href="/">{{ site.title }}</a>
             </div>
             <div class="navbar-collapse collapse navbar-right">
                 <ul class="nav navbar-nav">
-                    <li class="active"><a href="#">Home</a></li>
-                    <li><a href="/resume">Resume</a></li>
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Projects<span class="caret"></span></a>
+                    <li {% if page.navigation == "home" %}class="active"{% endif %} ><a href="/">Home</a></li>
+                    <li {% if page.navigation == "resume" %}class="active"{% endif %} ><a href="/resume">Resume</a></li>
+                    <li {% if page.navigation == "projects" %}class="active"{% endif %} class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Projects <span class="caret"></span></a>
                         <ul class="dropdown-menu" role="menu">
+                            <li><a href="/projects">Overview</a></li>
+                            <li class="divider"></li>
                             <li><a href="#">Card Collaborator</a></li>
                             <li><a href="#">Twist Up</a></li>
                             <li><a href="#">Candy Tutor Machine</a></li>

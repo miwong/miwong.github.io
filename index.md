@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Michelle Wong
+navigation: home
 ---
 
 # Michelle Wong
