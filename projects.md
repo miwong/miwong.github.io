@@ -1,10 +1,17 @@
 ---
-layout: default
-title: Projects
-navigation: projects
+layout: archive
+title: "Projects"
+date: 2014-05-30T11:39:03-04:00
+modified:
+excerpt: "A collection of past and current projects."
+tags: []
+image:
+  feature:
+  teaser:
 ---
 
-# Projects
-<br/>
-
-
+<div class="tiles">
+{% for post in site.categories.projects %}
+  {% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->

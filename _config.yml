@@ -1,10 +1,28 @@
-# Site settings
-title: Michelle Wong
-description: > # this means to ignore newlines until "baseurl:"
-    Home page for Michelle Wong.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://localhost:4000" # the base hostname & protocol for your site
-permalink: pretty
+# Site wide configuration
 
-# Build settings
+title: "Michelle Wong"
+description: "Home page for Michelle Wong"
+locale: en_US
+baseurl: ""
+url: "http://miwong.github.io"
+
+# Jekyll configuration
+
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: pretty
 markdown: kramdown
+highlighter: pygments
+gems:
+  - jekyll-sitemap
+
+
+# Site owner
+owner:
+  name: Michelle Wong
+  bio: "Computer engineer and grad student"
+  avatar: bio-photo.jpg # 160x160 px image for author byline
+
+
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
