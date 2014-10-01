@@ -41,16 +41,20 @@ share: false
 
 ## TA Work
 
-*   ECE 1776 - Computer Security, Cryptography and Privacy  
-    (Winter 2014, Fall 2014)  
-*   ECE 540 - Optimizing Compilers  
-    (Winter 2014)  
-*   ECE 353 - Systems Software (i.e. Operating Systems)  
-    (Winter 2014, Winter 2013)  
-*   ECE 454 - Computer Systems Programming  
-    (Fall 2013)  
-*   ECE 385 - Microprocessor Systems  
-    (Fall 2012)  
+<b>ECE 1776 - Computer Security, Cryptography and Privacy</b>  
+(Winter 2014, Fall 2014)  
+
+<b>ECE 540 - Optimizing Compilers</b>  
+(Winter 2014)  
+
+<b>ECE 353 - Systems Software (i.e. Operating Systems)</b>  
+(Winter 2014, Winter 2013)  
+
+<b>ECE 454 - Computer Systems Programming</b>  
+(Fall 2013)  
+
+<b>ECE 385 - Microprocessor Systems</b>  
+(Fall 2012)  
 
 ---
 
