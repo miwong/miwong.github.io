@@ -5,6 +5,7 @@ description: "Home page for Michelle Wong"
 locale: en_US
 baseurl: ""
 url: "http://miwong.github.io"
+#url: "http://localhost:4000"
 
 # Jekyll configuration
 
