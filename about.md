@@ -2,15 +2,19 @@
 layout: article
 title: "About"
 date: 2014-06-02T09:44:20-04:00
-modified: 2014-09-30
-excerpt: "This is the Skinny Bones about page."
+modified: 2014-10-02
+excerpt: "About Michelle Wong."
 image:
-  feature:
+  feature: 
   teaser:
   thumb:
 share: false
 ads: false
 ---
+
+<figure>
+	<img src="{{ site.url }}/images/profile-wide.jpg">
+</figure>
 
 I grew up in Toronto and am currently a graduate student at the University of Toronto. My interests lie in computer engineering,
 with experience in parallel programming, image processing, computer security.  I am currently working on my Master of Applied
