@@ -9,7 +9,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Programmer</h2>
-  <p class="post-excerpt">Graduated from University of toronto and interned with several tech companies.</p>
+  <p class="post-excerpt">Graduated from Engineering Science at the University of Toronto and interned with several tech companies.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
