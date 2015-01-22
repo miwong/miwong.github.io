@@ -60,10 +60,11 @@ share: false
 
 ## Education
 
-##### Master of Applied Science (current)  
+##### Master of Applied Science
 Electrical and Computer Engineering  
 University of Toronto  
 GPA: 4.00 out of 4.00
+Thesis: Targeted Dynamic Analysis for Android Malware
 
 ##### Honours Bachelor of Applied Science in Engineering Science  
 Major in Electrical and Computer Engineering  
