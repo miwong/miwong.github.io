@@ -2,7 +2,7 @@
 layout: archive
 title: "Projects"
 date: 2014-05-30T11:39:03-04:00
-modified:
+modified: 2015-05-22
 excerpt: "A collection of past and current projects."
 tags: []
 image:

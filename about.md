@@ -2,7 +2,7 @@
 layout: article
 title: "About"
 date: 2014-06-02T09:44:20-04:00
-modified: 2014-10-02
+modified: 2015-05-22
 excerpt: "About Michelle Wong."
 image:
   feature: 

@@ -2,7 +2,7 @@
 layout: article
 title: "Resume"
 date: 2014-06-25T13:57:25-04:00
-modified: 2014-10-01
+modified: 2015-05-22
 excerpt:
 tags: []
 image:
