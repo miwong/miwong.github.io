@@ -5,10 +5,6 @@ date: 2012-04-30T16:19:16-04:00
 categories: projects
 excerpt: "Enable more efficient dynamic analysis via static targetting"
 tags: []
-image:
-  feature:
-  teaser:
-  thumb:
 permalink: /projects/targeted-analysis
 ---
 

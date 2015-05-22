@@ -5,10 +5,6 @@ date: 2013-08-31T16:19:16-04:00
 categories: projects
 excerpt: "Framework allowing hand gestures to be used as input for applications"
 tags: []
-image:
-  feature:
-  teaser:
-  thumb:
 permalink: /projects/hand-gesture-detection
 ---
 
