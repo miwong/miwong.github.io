@@ -27,6 +27,7 @@ Thesis: Targeted Dynamic Analysis for Android Malware
 Major in Electrical and Computer Engineering  
 University of Toronto  
 GPA: 3.93 out of 4.00
+Undergraduate Thesis: Floating Point Performance on FPGAs vs CPUs
   
 ---
 
