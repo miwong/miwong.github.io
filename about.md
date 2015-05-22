@@ -13,17 +13,11 @@ ads: false
 ---
 
 <figure>
-	<img src="{{ site.url }}/images/profile-wide.jpg">
+	<img src="{{ site.url }}/images/profile-wide.jpg" style="height:50%; width:50%">
 </figure>
 
-I grew up in Toronto and am currently a graduate student at the University of Toronto. My interests lie in computer engineering,
-with experience in parallel programming, image processing, and computer security.  I recently completed my Master of Applied
-Science (MASc) degree, supervised by Professor David Lie. My undergraduate degree is from the Engineering Science program at the 
-University of Toronto (class of 1T1+PEY).  I plan to continue on to a PhD in the coming months.
-
-My main hobbies involve homemade crafts, using a variety of techniques.  I have taken classes in metal work and glass flameworking. 
-I also create jewelry and opened an Etsy shop several years ago.  
-
-I love playing board games and am always looking for new ones to try.  My current favourites are Dominion, Bang! and Betrayal
-at House on the Hill.
+I grew up in Toronto and am currently a PhD student at the University of Toronto. My interests lie in computer engineering, namely
+computer security, with additional experience in parallel programming and image processing.  I recently completed my Master of Applied
+Science (MASc) degree, supervised by Professor David Lie. I did my undergrad in the Engineering Science program at the 
+University of Toronto (class of 1T1+PEY). 
 

@@ -12,7 +12,7 @@ share: false
 ads: false
 ---
 
-This is a work in progress.
+You can reach me on [GitHub](http://github.com/miwong) or [LinkedIn](https://www.linkedin.com/pub/michelle-wong/4b/762/a4).
 
-I am currently active on [GitHub](http://github.com/miwong) and [LinkedIn](https://www.linkedin.com/pub/michelle-wong/4b/762/a4).
+This site is still a work in progress.
 
