@@ -1,29 +1,28 @@
-# Site wide configuration
+# general configuration
+url: http://miwong.me
+baseurl: ''
 
-title: "Michelle Wong"
-description: "Home page for Michelle Wong"
-locale: en_US
-baseurl: ""
-url: "http://miwong.github.io"
-#url: "http://localhost:4000"
+# compass configuration
+compass:
+  # an avatar or logo (optional)
+  logo: "/images/profile.jpg"
+  # author will appear under the avatar (optional)
+  author: "Michelle Wong"
+  # tagline will appear under the title (optional)
+  tagline: "PhD student in computer security"
+  about: "Dept. of Electrical and Computer Engineering<br>University of Toronto<br><br>Supervisor: David Lie<br><br><br>E-mail: michelley.wong at mail.utoronto.ca"
+  # if include_content is true, the contents of the content.html include will be
+  # added right above the generated item list, if present
+  include_content: true
+  # if include_analytics is true, the content of the analytics.html include will
+  # be added at the end of the <head> section. You can add your Google Analytics
+  # Tracking Code to that file.
+  include_analytics: true
 
-# Jekyll configuration
-
-sass:
-  sass_dir: _sass
-  style: compressed
-permalink: pretty
+# Dependencies
 markdown: kramdown
 highlighter: pygments
-gems:
-  - jekyll-sitemap
 
-
-# Site owner
-owner:
-  name: Michelle Wong
-  bio: "PhD student in computer engineering"
-  avatar: bio-photo.jpg # 160x160 px image for author byline
-
-
-exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
+# Permalinks
+permalink: pretty
+relative_permalinks: true
