@@ -128,11 +128,11 @@ footer {
 }
 
 /* All other devices (768px and up) */
-@media (min-width: 950px) {
+@media (min-width: 1024px) {
 	/* past 768px the layout is changed and the wrapper has a fixed width of 680px
 	to accomodate both the header column and the content column */
 	.wrapper {
-		width: 950px;
+		width: 1000px;
 	}
 
 	/* the header column stays left and has a dynamic width with all contents
