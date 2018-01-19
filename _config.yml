@@ -10,7 +10,7 @@ compass:
   author: "Michelle Wong"
   # tagline will appear under the title (optional)
   tagline: "PhD student in computer security"
-  about: "Dept. of Electrical and Computer Engineering<br>University of Toronto<br><br>Supervisor: David Lie<br><br><br>E-mail: michelley.wong[at]mail.utoronto.ca<br>Office: D.L. Pratt Building, Room 372"
+  about: "Dept. of Electrical and Computer Engineering<br>University of Toronto<br><br>Supervisor: David Lie<br><br>E-mail: michelley.wong[at]mail.utoronto.ca<br>Office: D.L. Pratt Building, Room 372"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
