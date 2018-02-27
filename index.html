@@ -17,8 +17,10 @@ layout: base
         <div class="tagline-container"><p>{{ site.compass.tagline }}</p></div>
         {% endif %}
 
-        {% if site.compass.about %}
-        <div class="about-container"><p>{{ site.compass.about }}</p></div>
+        {% if site.compass.include_about %}
+        <div class="about-container">
+          {% include about.html %}
+        </div>
         {% endif %}
     </header>
     <main>
