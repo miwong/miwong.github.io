@@ -91,7 +91,7 @@ since it must be aligned with the content */
 /*** about ***/
 .about-container p {
     font-size: 1.0em;
-    text-align: full;
+    text-align: center;
     margin-bottom: 2em;
 }
 
@@ -148,7 +148,8 @@ footer {
 
     .author-container h1,
     .logo-container,
-    .tagline-container p {
+    .tagline-container p,
+    .about-container p {
         text-align: right;
     }
 
