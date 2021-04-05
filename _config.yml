@@ -11,7 +11,7 @@ compass:
   author: "Michelle Wong"
 
   # tagline will appear under the title (optional)
-  tagline: "PhD candidate in computer security"
+  tagline: "Software engineer in computer security"
 
   # if include_about is true, the contents of the about.html include will be
   # added under the tagline, if present.
